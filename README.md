@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CLOUD IN DATA ENGNEERING**
 
-- 🤝 I’m looking for help with **OPENCV AND SPEECH TO TEXT PROJECTS**
+- 🤝 I’m looking for help with **OPENCV**
 
 - 💬 Ask me about **Python**
 
